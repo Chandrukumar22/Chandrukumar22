@@ -2,10 +2,10 @@
 
 Software Engineer @ Bluekode Solutions
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
-- 🌱 I’m currently working on Node JS 
-- 👯 I’m looking to collaborate on ML/AI
-- 🤔 I’m looking for help with Placements in FAANG
-- 💬 Ask me about Tech
+- 🌱 I am currently working on advanced Node.js development, focusing on scalable and efficient backend solutions.
+- 👯 I want to collaborate on Machine Learning (ML) and Artificial Intelligence (AI) projects.
+- 🤔 I am preparing for placements in MNC companies and seeking guidance.
+- 💬 Ask Me About Backend development, Node.js, NestJS, database management, and API design.
 - 📫 How to reach me :
 <br /> [<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />](https://x.com/ChandruSankar11) [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/chandru-kumar-5b2779253/)
 - 😄 Pronouns: Techie
